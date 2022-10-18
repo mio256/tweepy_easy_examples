@@ -1,4 +1,4 @@
-# python_base
+# tweepy_easy_examples
 
 ## setup.sh
 ```

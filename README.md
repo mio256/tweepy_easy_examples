@@ -17,3 +17,8 @@ $ python tweet.py
 ```
 $ python show_home.py
 ```
+
+## page_home.py
+```
+$ python page_home.py
+```

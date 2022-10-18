@@ -22,3 +22,6 @@ $ python show_home.py
 ```
 $ python page_home.py
 ```
+
+## docs
+[tweepy docs](https://docs.tweepy.org/en/stable/index.html)

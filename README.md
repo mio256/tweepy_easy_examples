@@ -23,5 +23,10 @@ $ python show_home.py
 $ python page_home.py
 ```
 
+## like.py
+```
+$ python like.py
+```
+
 ## docs
 [tweepy docs](https://docs.tweepy.org/en/stable/index.html)
